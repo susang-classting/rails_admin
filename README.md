@@ -1,5 +1,7 @@
 # RailsAdmin
 
+# 수정사항 : Froala Editor v2 동작하도록 바꿈
+
 [![Gem Version](https://img.shields.io/gem/v/rails_admin.svg)][gem]
 [![Build Status](https://img.shields.io/travis/sferik/rails_admin.svg)][travis]
 [![Coverage Status](https://img.shields.io/coveralls/sferik/rails_admin.svg)][coveralls]
