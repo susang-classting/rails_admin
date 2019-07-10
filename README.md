@@ -1,6 +1,8 @@
 # RailsAdmin
 
-# 수정사항 : Froala Editor v2 동작하도록 바꿈
+# 수정사항
+* Froala Editor v2 동작하도록 바꿈
+* Froala Editor ENTER를 P에서 DIV로 변경
 
 [![Gem Version](https://img.shields.io/gem/v/rails_admin.svg)][gem]
 [![Build Status](https://img.shields.io/travis/sferik/rails_admin.svg)][travis]

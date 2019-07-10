@@ -283,6 +283,7 @@ $(document).on 'rails_admin.dom_ready', (e, content) ->
         config_options = $.parseJSON(options['config_options'])
         if config_options
           config_options['imageUploadParams'].authenticity_token = $('meta[name=csrf-token]').attr('content');
+          config_options['enter'] = $.FroalaEditor.ENTER_DIV
           if !config_options['toolbarInline']
             config_options['toolbarInline'] = false
         else
